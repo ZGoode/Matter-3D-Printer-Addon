@@ -1,0 +1,13 @@
+# Target labels
+ hci_rpmsg_subimage
+# Source files and their labels
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage.rule
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage-complete.rule
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-build.rule
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-configure.rule
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-download.rule
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-install.rule
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-mkdir.rule
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-patch.rule
+/home/zachary/Documents/nrf/test_template/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-update.rule

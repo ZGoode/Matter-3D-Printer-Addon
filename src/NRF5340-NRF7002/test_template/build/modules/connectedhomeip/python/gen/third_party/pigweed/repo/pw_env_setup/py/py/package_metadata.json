@@ -1,0 +1,37 @@
+{
+  "gn_target_name": "//third_party/pigweed/repo/pw_env_setup/py:py",
+  "inputs": [
+
+  ],
+  "setup_sources": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pyproject.toml",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/setup.cfg",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/setup.py"
+  ],
+  "sources": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/__init__.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/apply_visitor.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/batch_visitor.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/cipd_setup/__init__.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/cipd_setup/update.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/cipd_setup/wrapper.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/colors.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/config_file.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/env_setup.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/environment.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/gni_visitor.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/json_visitor.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/python_packages.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/shell_visitor.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/spinner.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/virtualenv_setup/__init__.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/virtualenv_setup/__main__.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/virtualenv_setup/install.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/pw_env_setup/windows_env_start.py"
+  ],
+  "tests": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/environment_test.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/python_packages_test.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_env_setup/py/json_visitor_test.py"
+  ]
+}

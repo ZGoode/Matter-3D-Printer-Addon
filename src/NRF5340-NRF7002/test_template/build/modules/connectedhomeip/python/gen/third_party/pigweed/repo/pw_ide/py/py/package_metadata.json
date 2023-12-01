@@ -1,0 +1,33 @@
+{
+  "gn_target_name": "//third_party/pigweed/repo/pw_ide/py:py",
+  "inputs": [
+
+  ],
+  "setup_sources": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pyproject.toml",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/setup.cfg",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/setup.py"
+  ],
+  "sources": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/__init__.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/__main__.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/activate.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/cli.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/commands.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/cpp.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/editors.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/exceptions.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/python.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/settings.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/status_reporter.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/symlinks.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/pw_ide/vscode.py"
+  ],
+  "tests": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/commands_test.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/cpp_test.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/editors_test.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/test_cases.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_ide/py/vscode_test.py"
+  ]
+}

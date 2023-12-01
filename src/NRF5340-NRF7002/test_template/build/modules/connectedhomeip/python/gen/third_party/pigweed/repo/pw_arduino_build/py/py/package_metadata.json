@@ -1,0 +1,27 @@
+{
+  "gn_target_name": "//third_party/pigweed/repo/pw_arduino_build/py:py",
+  "inputs": [
+
+  ],
+  "setup_sources": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pyproject.toml",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/setup.cfg",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/setup.py"
+  ],
+  "sources": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/__init__.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/__main__.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/builder.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/core_installer.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/file_operations.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/log.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/teensy_detector.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/unit_test_client.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/unit_test_runner.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/pw_arduino_build/unit_test_server.py"
+  ],
+  "tests": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/builder_test.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_arduino_build/py/file_operations_test.py"
+  ]
+}

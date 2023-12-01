@@ -1,0 +1,19 @@
+{
+  "gn_target_name": "//third_party/pigweed/repo/pw_trace_tokenized/py:py",
+  "inputs": [
+
+  ],
+  "setup_sources": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_trace_tokenized/py/pyproject.toml",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_trace_tokenized/py/setup.cfg",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_trace_tokenized/py/setup.py"
+  ],
+  "sources": [
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_trace_tokenized/py/pw_trace_tokenized/__init__.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_trace_tokenized/py/pw_trace_tokenized/get_trace.py",
+    "../../../../../../ncs/v2.5.0/modules/lib/matter/third_party/pigweed/repo/pw_trace_tokenized/py/pw_trace_tokenized/trace_tokenized.py"
+  ],
+  "tests": [
+
+  ]
+}

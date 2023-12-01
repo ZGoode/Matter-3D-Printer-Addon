@@ -1,0 +1,41 @@
+{
+    "format-version": 0,
+    "time": 1701037159,
+    "files": [
+        {
+            "type": "application",
+            "board": "nrf7002dk_nrf5340_cpuapp",
+            "soc": "nRF5340_CPUAPP_QKAA",
+            "load_address": 49664,
+            "image_index": "0",
+            "slot_index_primary": "1",
+            "slot_index_secondary": "2",
+            "version_MCUBOOT": "0.0.0+0",
+            "size": 882348,
+            "file": "app_update.bin",
+            "modtime": 1701037159
+        },
+        {
+            "type": "application",
+            "board": "nrf7002dk_nrf5340_cpunet",
+            "soc": "nRF5340_CPUNET_QKAA",
+            "image_index": "1",
+            "slot_index_primary": "3",
+            "slot_index_secondary": "4",
+            "load_address": 16812032,
+            "version": "1",
+            "size": 159220,
+            "file": "net_core_app_update.bin",
+            "modtime": 1700884457
+        }
+    ],
+    "name": "test_template",
+    "firmware": {
+        "zephyr": {
+            "revision": "6503a199dc02cd31cc1101de7a7f0ee1d326487c-dirty"
+        },
+        "nrf": {
+            "revision": "1fae141fc6713dd331b797fc96c90dc84552242d-dirty"
+        }
+    }
+}

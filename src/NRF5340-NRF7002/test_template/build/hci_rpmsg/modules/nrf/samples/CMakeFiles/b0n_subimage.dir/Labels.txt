@@ -1,0 +1,13 @@
+# Target labels
+ b0n_subimage
+# Source files and their labels
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/CMakeFiles/b0n_subimage
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/CMakeFiles/b0n_subimage.rule
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/CMakeFiles/b0n_subimage-complete.rule
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/b0n_subimage-prefix/src/b0n_subimage-stamp/b0n_subimage-build.rule
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/b0n_subimage-prefix/src/b0n_subimage-stamp/b0n_subimage-configure.rule
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/b0n_subimage-prefix/src/b0n_subimage-stamp/b0n_subimage-download.rule
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/b0n_subimage-prefix/src/b0n_subimage-stamp/b0n_subimage-install.rule
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/b0n_subimage-prefix/src/b0n_subimage-stamp/b0n_subimage-mkdir.rule
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/b0n_subimage-prefix/src/b0n_subimage-stamp/b0n_subimage-patch.rule
+/home/zachary/Documents/nrf/test_template/build/hci_rpmsg/modules/nrf/samples/b0n_subimage-prefix/src/b0n_subimage-stamp/b0n_subimage-update.rule

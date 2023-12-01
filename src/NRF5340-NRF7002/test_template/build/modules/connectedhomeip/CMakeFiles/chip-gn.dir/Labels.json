@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/CMakeFiles/chip-gn"
+		},
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/CMakeFiles/chip-gn.rule"
+		},
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/CMakeFiles/chip-gn-complete.rule"
+		},
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-build.rule"
+		},
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-configure.rule"
+		},
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-download.rule"
+		},
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-install.rule"
+		},
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-mkdir.rule"
+		},
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-patch.rule"
+		},
+		{
+			"file" : "/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"chip-gn"
+		],
+		"name" : "chip-gn"
+	}
+}

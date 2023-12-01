@@ -1,0 +1,13 @@
+# Target labels
+ mcuboot_subimage
+# Source files and their labels
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/CMakeFiles/mcuboot_subimage
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/CMakeFiles/mcuboot_subimage.rule
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/CMakeFiles/mcuboot_subimage-complete.rule
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-build.rule
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-configure.rule
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-download.rule
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-install.rule
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-mkdir.rule
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-patch.rule
+/home/zachary/Documents/nrf/test_template/build/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-update.rule

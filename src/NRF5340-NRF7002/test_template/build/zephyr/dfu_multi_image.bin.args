@@ -1,0 +1,8 @@
+create
+--image
+0
+/home/zachary/Documents/nrf/test_template/build/zephyr/app_update.bin
+--image
+1
+/home/zachary/Documents/nrf/test_template/build/zephyr/net_core_app_update.bin
+/home/zachary/Documents/nrf/test_template/build/zephyr/dfu_multi_image.bin

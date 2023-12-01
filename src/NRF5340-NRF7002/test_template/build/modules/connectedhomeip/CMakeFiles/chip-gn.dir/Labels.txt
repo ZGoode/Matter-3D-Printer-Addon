@@ -1,0 +1,13 @@
+# Target labels
+ chip-gn
+# Source files and their labels
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/CMakeFiles/chip-gn
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/CMakeFiles/chip-gn.rule
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/CMakeFiles/chip-gn-complete.rule
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-build.rule
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-configure.rule
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-download.rule
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-install.rule
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-mkdir.rule
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-patch.rule
+/home/zachary/Documents/nrf/test_template/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-update.rule

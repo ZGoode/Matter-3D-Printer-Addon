@@ -1,0 +1,3 @@
+osource "/home/zachary/Documents/nrf/light_switch/boards/shields/*/Kconfig.shield"
+osource "/home/zachary/Documents/nrf/test_template/boards/shields/*/Kconfig.shield"
+osource "/home/zachary/ncs/v2.5.0/nrf/boards/shields/*/Kconfig.shield"
