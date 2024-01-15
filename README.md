@@ -3,7 +3,6 @@ This code for this project is split into two sections, the code for the NRF7002D
 
 # Important Notes:
 - This project is still very much a work in progress
-- 
 
 # Current NRF7002DK Features:
 - Parse UART data sent from RP2040
